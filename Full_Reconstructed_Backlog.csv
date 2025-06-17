@@ -1,0 +1,37 @@
+Feature Name,User Problem,Requester,Date,Status,Category,Feature Type,Dataset Type
+CapIQ Snapshot,I need a way to see stock price and market cap data quickly from CapIQ.,Dillon Knox,13 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Earning Summary,I need a summary of recent CapIQ earnings reports to save time.,Dillon Knox,13 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Street Share,I want to track wallet share to the street over time for competitive insights.,Dillon Knox,13 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Personnel Moves,I want to monitor key personnel changes across companies.,Dillon Knox,13 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Company Capex,I need to know which companies are making major capital investments.,Dillon Knox,13 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Significant Events,I want to identify significant events and stock reactions to better time my pitches.,Ken Martin / John Luca,17 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Supplier Spend,I want to know upcoming contract renewals and supplier spend for my clients.,Ken Martin / John Luca,17 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Mobile Friendly,I want to prep for meetings on my phone or tablet while commuting.,Ken Martin / John Luca,17 Mar 2025,Discovery Required,Data Insight,Cross-device,Data Insight
+MD Summary Control,I want summaries customized by seniority because MDs need different views.,Ken Martin / John Luca,17 Mar 2025,Discovery Required,Personalization,Personalization,Data Insight
+Broker Accuracy,I want to know which brokers are most accurate by sector.,Yan Sun,17 Mar 2025,Data Requirement,Broker Research,Data Integration,Data Insight
+Meeting History Summary,I want a quick summary of all prior meetings and takeaways without searching emails.,Jay Schrader / Jeff Librot,18 Mar 2025,Data Requirement,Data Insight,Data Integration,Data Insight
+Presentation Summary,I want to auto-fill answers for presentation slides based on previous discussions.,Jay Schrader / Jeff Librot,18 Mar 2025,Discovery Required,Data Insight,New Feature,Data Insight
+Sector/Market News,I want relevant news and M&A activity surfaced during client prep.,Jay Schrader / Jeff Librot,18 Mar 2025,Discovery Required,Data Insight,Data Integration,Data Insight
+Comparable Section,I want the tool to prepopulate comparable companies automatically.,Jay Schrader / Jeff Librot,18 Mar 2025,Discovery Required,Data Insight,Data Integration,Data Insight
+Next Best Action,I want AI-driven suggestions for the next best client outreach step.,Anurag Sehgal,28 May 2025,Discovery Required,Data Insight,New Feature,
+Pre-call Without CRM,I want to prep for a client meeting even if I don't have CRM data.,Anurag Sehgal,28 May 2025,Discovery Required,Data Insight,New Feature,
+CRM Interoperability,I want to sync and access CRM/ClientFirst data without toggling tools.,Anurag Sehgal,28 May 2025,Discovery Required,Interoperability,,
+Tailored Brief,"I want meeting briefs personalized by user role, meeting type, and timing.",Anurag Sehgal,28 May 2025,Discovery Required,Personalization,Personalization,
+CRM Relationship Insight,I want CRM data to flow into relationship context fields.,Anurag Sehgal,28 May 2025,Data Requirement,Data Insight,Data Integration,
+Note Taker Integration,I want to review past meeting notes through Note Taker.,Anurag Sehgal,28 May 2025,Data Requirement,Data Insight,Data Integration,
+Multi-Player View,I want to see multiple team calendars side-by-side on the prep page.,Dillon Knox,12 June 2025,Discovery Required,Sharing & Collaboration,Feature Enhancement,
+Delegation View,I want to assign meeting prep to delegates (MDs/OAs).,Dillon Knox,12 June 2025,Discovery Required,Sharing & Collaboration,Feature Enhancement,
+Search (Keyword),I want to search public filings or insights by keyword.,Dillon Knox,12 June 2025,Discovery Required,Search,Search,
+Watchlist Feature,I want to track companies and get alerts on specific keywords.,Dillon Knox,12 June 2025,Discovery Required,Notification,Notification,
+Excel Download,I want to download charts/tables from the prep UI to Excel.,Dillon Knox,12 June 2025,Discovery Required,Notification,Notification,
+Calendar Redesign,I want a better layout for upcoming meetings on the calendar page.,Dillon Knox,12 June 2025,Design Underway,Feature Enhancement,Feature Enhancement,
+Notification Filtering,I want alerts filtered to exclude irrelevant company news.,Dillon Knox,12 June 2025,Discovery Required,Notification,Notification,
+Entitlements,I want call report access tied to sensitive content access rules.,Dillon Knox,12 June 2025,Discovery Required,Entitlements,,
+Junior Shadowing,I want junior bankers to see how seniors prepare for meetings.,Dillon Knox,12 June 2025,Discovery Required,Sharing & Collaboration,,
+Summary Fields,"I want a single-line summary section to include credit, research, and historical product views.",Dillon Knox,18 June 2025,Discovery Required,Feature Enhancement,,
+Bullet Summaries,I want to reduce meeting briefs to 5 key bullet points.,Anurag Sehgal,8 June 2025,UX Done,Feature Enhancement,,
+Data Agent Workflow,I want a clear view of which sources fed the insights shown.,Anurag Sehgal,8 June 2025,UX Done,Feature Enhancement,,
+Dynamic Context,"I want meeting briefs to dynamically adapt based on user, timing, and seniority.",Anurag Sehgal,8 June 2025,Data Requirement,Personalization,,
+Alternate Data Sources,"I want to pull in SEC, broker, and third-party insights into the prep.",Anurag Sehgal,8 June 2025,UX Done,Feature Enhancement,,
+Content Prioritization,I want the brief to surface the most important content at the top.,Anurag Sehgal,8 June 2025,Discovery Required,Personalization,,
+Calendar Integration,"I want a calendar icon to show all company events, earnings, and filings in one view.",Anurag Sehgal,8 June 2025,Discovery Required,New Feature,,
